@@ -4,7 +4,7 @@
 
 ## Demo
 
-A demo of this project can be found on this [link](https://cafe-spotter.vercel.app/)
+A demo of this project can be found on this [link](https://3-d-portal-scene.vercel.app/)
 
 ## Built With
 - [ThreeJS](https://threejs.org/)

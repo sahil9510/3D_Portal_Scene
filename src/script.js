@@ -15,10 +15,8 @@ import portalFragmentShader from './shaders/portal/fragment.glsl'
  */
 // Debug
 const debugObject={}
-const gui = new dat.GUI({
-    width: 400
-})
-
+const gui = new dat.GUI()
+gui.close()
 
 
 // Canvas
