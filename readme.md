@@ -30,11 +30,11 @@ npm run build
 
 Blender Solid View:
 
-<img width=500 height=300 src="./static/model.png"/>
+<img width=500 height=300 src="./static/model1.png"/>
 
 <br/>
 Blender Wireframe View:
-<img  width=500 height=300 src="./static/wireframe.png"/>
+<img  width=500 height=300 src="./static/wireframe1.png"/>
 
 # Contact
 Sahil Srivastava - [@srivastv_Sahil](https://twitter.com/srivastv_Sahil) - [srivastavasahil133@gmail.com](mailto:srivastavasahil133@gmail.com)
